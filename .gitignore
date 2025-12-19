@@ -1,6 +1,9 @@
-node_modules
-npm-debug.log
+node_modules/
+npm-debug.log*
+.npm
+data/
+*.log
 .DS_Store
-esclient.log
-
-
+Thumbs.db
+coverage/
+.nyc_output/
