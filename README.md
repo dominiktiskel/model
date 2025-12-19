@@ -17,7 +17,11 @@
 <details open>
 <summary>What is Pelias?</summary>
 <br />
-Pelias is a search engine for places worldwide, powered by open data. It turns addresses and place names into geographic coordinates, and turns geographic coordinates into places and addresses. With Pelias, you’re able to turn your users’ place searches into actionable geodata and transform your geodata into real places.
+Pelias is a search engine for places worldwide, powered by open data. It turns addresses and place names into geographic coordinates, and turns geographic coordinates into places and addresses. With Pelias, you're able to turn your users' place searches into actionable geodata and transform your geodata into real places.
+
+> **ℹ️ Fork Information**  
+> This is a fork of [pelias/model](https://github.com/pelias/model) maintained for custom Pelias deployments.  
+> Fork: [dominiktiskel/model](https://github.com/dominiktiskel/model)
 <br /><br />
 We think open data, open source, and open strategy win over proprietary solutions at any part of the stack and we want to ensure the services we offer are in line with that vision. We believe that an open geocoder improves over the long-term only if the community can incorporate truly representative local knowledge.
 </details>
